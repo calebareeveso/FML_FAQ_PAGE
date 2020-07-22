@@ -94,7 +94,7 @@ const FQA = () => {
                     </div>
                     <div className={FQACss.divP2} id="info3">
                         <p className={FQACss.p2}>
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ex odit rem amet sed! Minus maiores aperiam, saepe, magnam voluptate at nam repellendus cumque aliquid tempore, excepturi eum nesciunt in a!
+                        Lorem ipsum dolor sit amet, consectetur adipisiccing elit. Ex odit rem amet sed! Minus maiores aperiam, saepe, magnam voluptate at nam repellendus cumque aliquid tempore, excepturi eum nesciunt in a!
                         </p>
                     </div>
                 </div>
